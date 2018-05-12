@@ -4,18 +4,7 @@ CS140 - Introduction to Computing I
       
 Due: 5:00 pm, Friday June 9, 2017
 -----------------------------------------------------------------------------------------------------------
-Electronic submission:
-    - You must submit a single mp01.zip archive file of your project folder. Use a utility that produces
-     .zip files (Windows: right click | Send to | compress, Mac: right click | compress).
-    
-    - Upload your file by the due date to classes.cs.siue.edu. No late assignments will be accepted, so
-      allow at least 15 minutes before the due date for submission.
------------------------------------------------------------------------------------------------------------
-Objectives:
-    - To gain experience with the BlueJ IDE and how to edit source code for a class. 
-    - To create instances of the Book class and call its methods.
-    - To inspect objects using the IDE.
-    - To use simple if statements to validate the setter parameters.
+
 -----------------------------------------------------------------------------------------------------------   
 Project setup:
     You are provided with the Book class as your starting point. You will have to edit
@@ -210,21 +199,5 @@ Implementation details:
             For the copyrightYear, output "Invalid value: <theCopyrightYear>."
           
             Update the @param comment to indicate the valid range for the copyright year.
------------------------------------------------------------------------------------------------------------
-Grading Rubric:
-    Program submitted late:                 -50
-    Program does not compile:               -6
-    
-    Coding style:                            5
-        variable names, comments,
-        white space, readability
-        
-    (1) Clean-up:                            2
-    (3) Fields:                              3
-    (5) Default ctor:                        6
-    (7) 3-arg ctor:                          6
-    (9) Getters:                             6
-    (11) Setters:                            6
-    (13) Descriptor method:                  6
-    (15) Parameter validation:              10
------------------------------------------------------------------------------------------------------------
+
+good getter and setter practice
